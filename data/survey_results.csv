@@ -1,0 +1,264 @@
+participant_id,condition,age_group,gender,education,party_affiliation,policy_support,pct_opinion,article_convincing,article_shaped_opinion
+P0141,economic,35-44,Male,High school or less,Republican,Strongly in opposition,15% is not high enough,Neither convincing nor unconvincing,No
+P0219,moral,18-24,Male,Bachelor's degree,Republican,Somewhat in opposition,15% is not high enough,Somewhat unconvincing,No
+P0076,control,18-24,Female,Some college,Republican,Neutral,15% is too high,Strongly convincing,No
+P0124,economic,25-34,Non-binary/Other,Graduate degree,Democrat,Somewhat in favor,15% is not high enough,Strongly convincing,No
+P0096,economic,55-64,Female,Bachelor's degree,Republican,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0263,moral,18-24,Male,High school or less,Democrat,Strongly in opposition,15% is not high enough,Neither convincing nor unconvincing,No
+P0164,economic,25-34,Male,Some college,Democrat,Strongly in favor,15% is about the correct amount,Strongly convincing,No
+P0099,economic,25-34,Female,Graduate degree,Independent,Neutral,15% is about the correct amount,Somewhat convincing,Yes
+P0184,moral,25-34,Female,Some college,Democrat,Neutral,15% is too high,Neither convincing nor unconvincing,No
+P0052,control,18-24,Male,Bachelor's degree,Republican,Neutral,15% is about the correct amount,Strongly convincing,No
+P0025,control,55-64,Female,Some college,Democrat,Somewhat in favor,15% is about the correct amount,Somewhat convincing,No
+P0258,moral,45-54,Female,High school or less,Republican,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,Maybe
+P0216,moral,35-44,Male,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Somewhat unconvincing,Maybe
+P0111,economic,35-44,Female,Graduate degree,Independent,Somewhat in opposition,15% is too high,Somewhat unconvincing,No
+P0260,moral,45-54,Non-binary/Other,Bachelor's degree,Republican,Strongly in opposition,15% is too high,Somewhat convincing,No
+P0226,moral,18-24,Male,Some college,Independent,Strongly in favor,15% is about the correct amount,Somewhat unconvincing,No
+P0128,economic,18-24,Female,Some college,Democrat,Somewhat in favor,15% is too high,Somewhat convincing,Yes
+P0028,control,18-24,Male,Bachelor's degree,Republican,Somewhat in opposition,15% is about the correct amount,Strongly convincing,Maybe
+P0065,control,25-34,Female,Bachelor's degree,Independent,Strongly in opposition,15% is about the correct amount,Somewhat convincing,Maybe
+P0068,control,25-34,Male,Some college,Independent,Somewhat in favor,15% is too high,Somewhat unconvincing,No
+P0169,economic,18-24,Male,Bachelor's degree,Republican,Strongly in favor,15% is about the correct amount,Somewhat unconvincing,Yes
+P0191,moral,25-34,Prefer not to say,Some college,Other/No affiliation,Neutral,15% is about the correct amount,Somewhat unconvincing,Yes
+P0051,control,18-24,Female,Bachelor's degree,Republican,Neutral,15% is about the correct amount,Somewhat convincing,Maybe
+P0050,control,18-24,Female,Graduate degree,Independent,Neutral,15% is too high,Strongly convincing,No
+P0101,economic,35-44,Female,Bachelor's degree,Independent,Neutral,15% is too high,Neither convincing nor unconvincing,Yes
+P0088,control,18-24,Male,Bachelor's degree,Republican,Strongly in favor,15% is not high enough,Strongly unconvincing,Yes
+P0247,moral,18-24,Male,Some college,Democrat,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0120,economic,55-64,Male,Bachelor's degree,Democrat,Somewhat in opposition,15% is too high,Neither convincing nor unconvincing,No
+P0023,control,25-34,Female,Some college,Other/No affiliation,Strongly in opposition,15% is too high,Neither convincing nor unconvincing,No
+P0090,economic,55-64,Male,Graduate degree,Republican,Somewhat in favor,15% is too high,Neither convincing nor unconvincing,No
+P0017,control,25-34,Male,Bachelor's degree,Independent,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,Yes
+P0176,moral,25-34,Female,Some college,Independent,Strongly in favor,15% is about the correct amount,Strongly convincing,No
+P0145,economic,35-44,Female,High school or less,Other/No affiliation,Neutral,15% is too high,Neither convincing nor unconvincing,Yes
+P0072,control,35-44,Male,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0162,economic,25-34,Female,Graduate degree,Republican,Somewhat in opposition,15% is too high,Strongly unconvincing,No
+P0126,economic,25-34,Female,Bachelor's degree,Independent,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0104,economic,55-64,Male,Bachelor's degree,Democrat,Somewhat in opposition,15% is about the correct amount,Strongly unconvincing,Yes
+P0081,control,35-44,Male,Bachelor's degree,Republican,Neutral,15% is too high,Somewhat convincing,No
+P0217,moral,35-44,Male,Graduate degree,Republican,Somewhat in favor,15% is too high,Neither convincing nor unconvincing,No
+P0159,economic,25-34,Male,Bachelor's degree,Democrat,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,Maybe
+P0180,moral,55-64,Male,High school or less,Republican,Somewhat in favor,15% is too high,Somewhat unconvincing,No
+P0002,control,25-34,Male,Bachelor's degree,Other/No affiliation,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,No
+P0205,moral,35-44,Female,Bachelor's degree,Independent,Strongly in opposition,15% is about the correct amount,Somewhat convincing,No
+P0193,moral,45-54,Male,Some college,Democrat,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0133,economic,55-64,Female,Bachelor's degree,Other/No affiliation,Strongly in opposition,15% is about the correct amount,Somewhat convincing,No
+P0249,moral,35-44,Male,High school or less,Republican,Neutral,15% is about the correct amount,Somewhat convincing,No
+P0087,control,18-24,Female,Some college,Other/No affiliation,Neutral,15% is about the correct amount,Somewhat convincing,Maybe
+P0112,economic,25-34,Male,Bachelor's degree,Independent,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0262,moral,35-44,Male,Some college,Republican,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,No
+P0160,economic,25-34,Female,Graduate degree,Independent,Strongly in opposition,15% is about the correct amount,Somewhat unconvincing,Yes
+P0121,economic,25-34,Male,Graduate degree,Democrat,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0149,economic,35-44,Male,High school or less,Democrat,Neutral,15% is not high enough,Neither convincing nor unconvincing,No
+P0079,control,18-24,Male,Bachelor's degree,Republican,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0147,economic,35-44,Male,High school or less,Independent,Neutral,15% is about the correct amount,Somewhat convincing,No
+P0179,moral,25-34,Male,Graduate degree,Democrat,Neutral,15% is about the correct amount,Somewhat convincing,No
+P0234,moral,35-44,Male,Bachelor's degree,Democrat,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0074,control,25-34,Male,Some college,Republican,Strongly in favor,15% is not high enough,Somewhat convincing,No
+P0067,control,45-54,Female,Some college,Republican,Strongly in favor,15% is about the correct amount,Somewhat convincing,Maybe
+P0183,moral,25-34,Male,High school or less,Independent,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0212,moral,25-34,Female,Some college,Democrat,Somewhat in favor,15% is too high,Somewhat convincing,No
+P0091,economic,45-54,Male,Some college,Independent,Somewhat in favor,15% is too high,Neither convincing nor unconvincing,No
+P0235,moral,25-34,Female,Bachelor's degree,Democrat,Strongly in opposition,15% is not high enough,Strongly unconvincing,No
+P0177,moral,35-44,Female,High school or less,Independent,Strongly in favor,15% is about the correct amount,Somewhat unconvincing,No
+P0001,control,18-24,Female,High school or less,Independent,Somewhat in opposition,15% is too high,Neither convincing nor unconvincing,Maybe
+P0007,control,25-34,Female,Bachelor's degree,Other/No affiliation,Somewhat in favor,15% is about the correct amount,Somewhat unconvincing,Yes
+P0010,control,45-54,Male,Some college,Republican,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0241,moral,55-64,Prefer not to say,Some college,Republican,Neutral,15% is too high,Somewhat convincing,Maybe
+P0008,control,25-34,Male,High school or less,Independent,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,No
+P0150,economic,18-24,Female,Bachelor's degree,Republican,Strongly in opposition,15% is about the correct amount,Strongly unconvincing,No
+P0168,economic,18-24,Male,Graduate degree,Republican,Somewhat in opposition,15% is not high enough,Somewhat convincing,No
+P0070,control,55-64,Male,Graduate degree,Democrat,Strongly in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0238,moral,25-34,Female,Graduate degree,Republican,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0092,economic,18-24,Female,Some college,Republican,Strongly in favor,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0166,economic,35-44,Female,Bachelor's degree,Republican,Strongly in favor,15% is too high,Strongly convincing,Maybe
+P0022,control,25-34,Male,Some college,Democrat,Neutral,15% is about the correct amount,Somewhat unconvincing,No
+P0059,control,35-44,Female,Graduate degree,Democrat,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,Maybe
+P0137,economic,55-64,Female,Graduate degree,Independent,Neutral,15% is about the correct amount,Strongly convincing,No
+P0131,economic,18-24,Female,Bachelor's degree,Independent,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0033,control,25-34,Male,Graduate degree,Independent,Somewhat in favor,15% is about the correct amount,Somewhat convincing,No
+P0044,control,45-54,Male,Bachelor's degree,Republican,Neutral,15% is too high,Strongly unconvincing,No
+P0094,economic,18-24,Female,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0114,economic,55-64,Female,Some college,Independent,Neutral,15% is about the correct amount,Somewhat convincing,Maybe
+P0032,control,45-54,Female,Some college,Democrat,Strongly in opposition,15% is too high,Somewhat convincing,Yes
+P0125,economic,65+,Male,Some college,Democrat,Strongly in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0132,economic,25-34,Male,Bachelor's degree,Other/No affiliation,Neutral,15% is about the correct amount,Strongly convincing,No
+P0030,control,18-24,Male,Graduate degree,Other/No affiliation,Somewhat in favor,15% is about the correct amount,Somewhat convincing,No
+P0043,control,25-34,Female,Bachelor's degree,Democrat,Somewhat in opposition,15% is not high enough,Somewhat unconvincing,No
+P0237,moral,35-44,Male,Graduate degree,Democrat,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0020,control,25-34,Male,High school or less,Independent,Somewhat in favor,15% is about the correct amount,Somewhat unconvincing,Maybe
+P0038,control,55-64,Male,Bachelor's degree,Other/No affiliation,Somewhat in opposition,15% is about the correct amount,Strongly convincing,No
+P0222,moral,25-34,Female,Graduate degree,Independent,Somewhat in opposition,15% is too high,Somewhat unconvincing,No
+P0109,economic,45-54,Male,Bachelor's degree,Republican,Neutral,15% is too high,Neither convincing nor unconvincing,No
+P0215,moral,35-44,Female,Some college,Republican,Somewhat in favor,15% is about the correct amount,Somewhat convincing,Yes
+P0253,moral,18-24,Female,Graduate degree,Democrat,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0117,economic,45-54,Male,Bachelor's degree,Republican,Neutral,15% is not high enough,Strongly unconvincing,No
+P0003,control,35-44,Non-binary/Other,Graduate degree,Independent,Neutral,15% is not high enough,Neither convincing nor unconvincing,No
+P0243,moral,18-24,Prefer not to say,Bachelor's degree,Republican,Neutral,15% is too high,Somewhat unconvincing,Maybe
+P0151,economic,18-24,Male,Some college,Independent,Somewhat in opposition,15% is about the correct amount,Strongly unconvincing,No
+P0251,moral,35-44,Male,High school or less,Democrat,Somewhat in favor,15% is not high enough,Somewhat convincing,No
+P0073,control,18-24,Male,Bachelor's degree,Republican,Neutral,15% is about the correct amount,Somewhat unconvincing,Maybe
+P0006,control,18-24,Male,High school or less,Republican,Neutral,15% is about the correct amount,Somewhat convincing,Yes
+P0130,economic,18-24,Male,Graduate degree,Democrat,Strongly in favor,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0163,economic,35-44,Female,Graduate degree,Independent,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0206,moral,18-24,Non-binary/Other,Bachelor's degree,Independent,Strongly in favor,15% is not high enough,Somewhat convincing,No
+P0027,control,35-44,Female,High school or less,Republican,Somewhat in favor,15% is about the correct amount,Somewhat unconvincing,Maybe
+P0041,control,65+,Female,Some college,Republican,Neutral,15% is too high,Somewhat convincing,Maybe
+P0231,moral,18-24,Male,Some college,Independent,Strongly in favor,15% is about the correct amount,Somewhat convincing,No
+P0204,moral,35-44,Female,High school or less,Democrat,Somewhat in opposition,15% is not high enough,Somewhat convincing,No
+P0093,economic,25-34,Male,Bachelor's degree,Republican,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0254,moral,18-24,Female,High school or less,Republican,Somewhat in favor,15% is about the correct amount,Strongly convincing,No
+P0185,moral,65+,Male,Graduate degree,Other/No affiliation,Somewhat in favor,15% is about the correct amount,Strongly convincing,No
+P0171,economic,35-44,Male,High school or less,Independent,Somewhat in favor,15% is about the correct amount,Somewhat unconvincing,No
+P0064,control,25-34,Female,Some college,Independent,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0230,moral,35-44,Male,Some college,Republican,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0156,economic,35-44,Female,Bachelor's degree,Democrat,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0047,control,35-44,Female,High school or less,Other/No affiliation,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0034,control,45-54,Male,Some college,Independent,Strongly in favor,15% is about the correct amount,Somewhat unconvincing,Yes
+P0040,control,18-24,Male,Bachelor's degree,Republican,Somewhat in favor,15% is too high,Neither convincing nor unconvincing,No
+P0046,control,25-34,Female,Graduate degree,Independent,Somewhat in favor,15% is not high enough,Somewhat unconvincing,No
+P0084,control,35-44,Female,Bachelor's degree,Other/No affiliation,Neutral,15% is too high,Neither convincing nor unconvincing,No
+P0146,economic,18-24,Female,Some college,Republican,Somewhat in opposition,15% is about the correct amount,Strongly convincing,Maybe
+P0214,moral,35-44,Female,Bachelor's degree,Independent,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0200,moral,18-24,Male,Some college,Democrat,Neutral,15% is about the correct amount,Somewhat convincing,No
+P0167,economic,25-34,Female,Bachelor's degree,Republican,Strongly in opposition,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0246,moral,55-64,Female,Graduate degree,Republican,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0042,control,35-44,Female,High school or less,Other/No affiliation,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0252,moral,25-34,Female,Bachelor's degree,Republican,Neutral,15% is not high enough,Strongly unconvincing,Yes
+P0201,moral,25-34,Female,Graduate degree,Independent,Somewhat in favor,15% is about the correct amount,Somewhat convincing,No
+P0102,economic,45-54,Male,Some college,Democrat,Somewhat in favor,15% is about the correct amount,Somewhat unconvincing,No
+P0155,economic,55-64,Male,High school or less,Other/No affiliation,Neutral,15% is too high,Strongly convincing,No
+P0157,economic,45-54,Female,Graduate degree,Other/No affiliation,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0140,economic,18-24,Male,Bachelor's degree,Independent,Somewhat in favor,15% is about the correct amount,Somewhat unconvincing,No
+P0031,control,35-44,Female,Some college,Republican,Somewhat in favor,15% is too high,Neither convincing nor unconvincing,Maybe
+P0257,moral,18-24,Female,Graduate degree,Independent,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0055,control,18-24,Female,Bachelor's degree,Democrat,Strongly in favor,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0004,control,25-34,Female,Some college,Other/No affiliation,Neutral,15% is about the correct amount,Somewhat convincing,Yes
+P0203,moral,65+,Male,Bachelor's degree,Independent,Neutral,15% is not high enough,Neither convincing nor unconvincing,Maybe
+P0086,control,18-24,Female,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0054,control,25-34,Male,Graduate degree,Republican,Somewhat in opposition,15% is too high,Strongly convincing,Maybe
+P0123,economic,18-24,Female,Bachelor's degree,Other/No affiliation,Somewhat in favor,15% is about the correct amount,Strongly convincing,No
+P0221,moral,25-34,Female,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Strongly unconvincing,Maybe
+P0213,moral,65+,Male,Some college,Democrat,Strongly in favor,15% is about the correct amount,Somewhat convincing,Maybe
+P0019,control,18-24,Female,Bachelor's degree,Republican,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0011,control,25-34,Female,High school or less,Independent,Somewhat in favor,15% is too high,Somewhat unconvincing,Yes
+P0192,moral,55-64,Female,Graduate degree,Republican,Strongly in favor,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0069,control,45-54,Male,Some college,Republican,Neutral,15% is too high,Neither convincing nor unconvincing,No
+P0014,control,25-34,Female,Graduate degree,Democrat,Somewhat in opposition,15% is not high enough,Neither convincing nor unconvincing,No
+P0049,control,25-34,Female,Bachelor's degree,Independent,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,No
+P0182,moral,25-34,Female,Bachelor's degree,Democrat,Somewhat in favor,15% is not high enough,Somewhat convincing,Maybe
+P0024,control,35-44,Female,Graduate degree,Democrat,Neutral,15% is too high,Somewhat unconvincing,Yes
+P0095,economic,45-54,Prefer not to say,Bachelor's degree,Democrat,Strongly in favor,15% is about the correct amount,Somewhat convincing,No
+P0116,economic,55-64,Female,Graduate degree,Other/No affiliation,Neutral,15% is too high,Neither convincing nor unconvincing,No
+P0021,control,55-64,Male,Bachelor's degree,Republican,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0085,control,25-34,Male,Bachelor's degree,Democrat,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0239,moral,25-34,Female,Graduate degree,Democrat,Neutral,15% is about the correct amount,Strongly convincing,No
+P0066,control,18-24,Male,Graduate degree,Democrat,Somewhat in opposition,15% is about the correct amount,Strongly convincing,Yes
+P0242,moral,55-64,Female,High school or less,Republican,Somewhat in opposition,15% is about the correct amount,Somewhat unconvincing,Maybe
+P0100,economic,35-44,Female,Graduate degree,Independent,Strongly in opposition,15% is about the correct amount,Somewhat convincing,Yes
+P0035,control,25-34,Male,Graduate degree,Republican,Neutral,15% is too high,Somewhat convincing,Maybe
+P0136,economic,65+,Female,Bachelor's degree,Independent,Somewhat in favor,15% is about the correct amount,Somewhat convincing,No
+P0187,moral,45-54,Male,High school or less,Independent,Somewhat in favor,15% is about the correct amount,Somewhat convincing,No
+P0259,moral,55-64,Male,Graduate degree,Democrat,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,No
+P0207,moral,18-24,Male,Bachelor's degree,Republican,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,No
+P0144,economic,45-54,Female,Graduate degree,Independent,Strongly in favor,15% is too high,Neither convincing nor unconvincing,Maybe
+P0218,moral,55-64,Female,Some college,Republican,Neutral,15% is about the correct amount,Somewhat convincing,Yes
+P0119,economic,55-64,Female,Graduate degree,Democrat,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0202,moral,35-44,Male,Some college,Republican,Neutral,15% is about the correct amount,Somewhat convincing,Yes
+P0175,moral,45-54,Female,Graduate degree,Independent,Strongly in opposition,15% is about the correct amount,Somewhat unconvincing,Yes
+P0058,control,45-54,Male,Graduate degree,Other/No affiliation,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0244,moral,25-34,Male,High school or less,Democrat,Somewhat in favor,15% is about the correct amount,Somewhat convincing,Yes
+P0122,economic,45-54,Female,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0138,economic,18-24,Male,Bachelor's degree,Republican,Neutral,15% is about the correct amount,Somewhat convincing,No
+P0048,control,45-54,Male,High school or less,Other/No affiliation,Neutral,15% is not high enough,Strongly unconvincing,No
+P0256,moral,18-24,Female,Graduate degree,Republican,Neutral,15% is about the correct amount,Somewhat convincing,No
+P0245,moral,18-24,Female,Graduate degree,Republican,Neutral,15% is too high,Somewhat convincing,Yes
+P0039,control,25-34,Female,Bachelor's degree,Other/No affiliation,Somewhat in favor,15% is about the correct amount,Somewhat unconvincing,Maybe
+P0105,economic,45-54,Female,Bachelor's degree,Democrat,Neutral,15% is about the correct amount,Strongly convincing,No
+P0107,economic,25-34,Female,Some college,Republican,Neutral,15% is about the correct amount,Somewhat unconvincing,Maybe
+P0210,moral,18-24,Male,Some college,Independent,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0135,economic,35-44,Male,Some college,Independent,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0098,economic,35-44,Female,Graduate degree,Independent,Strongly in favor,15% is too high,Neither convincing nor unconvincing,No
+P0172,economic,35-44,Female,Graduate degree,Republican,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0165,economic,25-34,Male,Graduate degree,Democrat,Neutral,15% is too high,Somewhat unconvincing,Maybe
+P0089,economic,18-24,Female,Some college,Other/No affiliation,Neutral,15% is about the correct amount,Somewhat convincing,Maybe
+P0229,moral,25-34,Male,Graduate degree,Independent,Somewhat in opposition,15% is not high enough,Neither convincing nor unconvincing,No
+P0261,moral,55-64,Female,Some college,Independent,Neutral,15% is not high enough,Neither convincing nor unconvincing,No
+P0220,moral,25-34,Female,Some college,Other/No affiliation,Somewhat in favor,15% is not high enough,Neither convincing nor unconvincing,No
+P0110,economic,45-54,Female,Some college,Independent,Somewhat in opposition,15% is not high enough,Somewhat unconvincing,No
+P0174,economic,25-34,Male,Graduate degree,Independent,Strongly in favor,15% is not high enough,Strongly convincing,Maybe
+P0161,economic,18-24,Female,Graduate degree,Independent,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,No
+P0045,control,18-24,Female,Bachelor's degree,Republican,Neutral,15% is about the correct amount,Strongly convincing,No
+P0189,moral,35-44,Female,Some college,Independent,Somewhat in favor,15% is about the correct amount,Strongly unconvincing,Yes
+P0152,economic,18-24,Male,Bachelor's degree,Democrat,Strongly in opposition,15% is about the correct amount,Somewhat convincing,Yes
+P0143,economic,18-24,Female,Some college,Democrat,Strongly in opposition,15% is too high,Strongly unconvincing,No
+P0016,control,45-54,Male,Some college,Democrat,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0071,control,18-24,Female,Some college,Independent,Somewhat in opposition,15% is too high,Neither convincing nor unconvincing,No
+P0077,control,35-44,Male,Bachelor's degree,Republican,Somewhat in favor,15% is about the correct amount,Strongly unconvincing,No
+P0106,economic,35-44,Female,Bachelor's degree,Democrat,Somewhat in opposition,15% is too high,Somewhat convincing,Yes
+P0057,control,18-24,Male,Bachelor's degree,Republican,Strongly in opposition,15% is about the correct amount,Somewhat unconvincing,Yes
+P0134,economic,25-34,Female,Bachelor's degree,Other/No affiliation,Somewhat in favor,15% is about the correct amount,Strongly convincing,Yes
+P0248,moral,45-54,Non-binary/Other,Some college,Independent,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0037,control,25-34,Female,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Somewhat unconvincing,Yes
+P0078,control,18-24,Male,Bachelor's degree,Other/No affiliation,Strongly in favor,15% is about the correct amount,Somewhat unconvincing,No
+P0061,control,18-24,Female,Some college,Independent,Neutral,15% is too high,Somewhat unconvincing,No
+P0083,control,45-54,Non-binary/Other,Bachelor's degree,Democrat,Neutral,15% is not high enough,Somewhat convincing,Yes
+P0232,moral,55-64,Female,Some college,Democrat,Somewhat in favor,15% is not high enough,Somewhat convincing,No
+P0198,moral,65+,Female,Bachelor's degree,Independent,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0233,moral,65+,Female,Graduate degree,Independent,Somewhat in favor,15% is about the correct amount,Somewhat convincing,No
+P0211,moral,18-24,Male,Bachelor's degree,Republican,Somewhat in opposition,15% is too high,Neither convincing nor unconvincing,No
+P0082,control,25-34,Female,Some college,Democrat,Neutral,15% is not high enough,Somewhat convincing,No
+P0148,economic,18-24,Male,Some college,Republican,Somewhat in favor,15% is not high enough,Strongly convincing,No
+P0188,moral,35-44,Female,Bachelor's degree,Other/No affiliation,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0209,moral,25-34,Female,Some college,Republican,Somewhat in favor,15% is about the correct amount,Somewhat convincing,Yes
+P0223,moral,35-44,Male,Bachelor's degree,Other/No affiliation,Strongly in opposition,15% is too high,Somewhat unconvincing,No
+P0075,control,55-64,Female,Bachelor's degree,Independent,Strongly in opposition,15% is about the correct amount,Somewhat unconvincing,No
+P0129,economic,55-64,Male,High school or less,Democrat,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0036,control,18-24,Female,Some college,Democrat,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0015,control,45-54,Female,Bachelor's degree,Democrat,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0199,moral,45-54,Female,Some college,Other/No affiliation,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0194,moral,55-64,Female,Graduate degree,Independent,Somewhat in opposition,15% is too high,Strongly convincing,No
+P0056,control,18-24,Male,Graduate degree,Democrat,Neutral,15% is about the correct amount,Strongly unconvincing,No
+P0139,economic,35-44,Male,Some college,Other/No affiliation,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0060,control,45-54,Female,Bachelor's degree,Independent,Somewhat in favor,15% is too high,Neither convincing nor unconvincing,No
+P0113,economic,45-54,Male,High school or less,Republican,Neutral,15% is too high,Somewhat unconvincing,No
+P0103,economic,45-54,Male,High school or less,Independent,Somewhat in favor,15% is not high enough,Somewhat convincing,Yes
+P0012,control,35-44,Female,High school or less,Democrat,Neutral,15% is too high,Neither convincing nor unconvincing,Yes
+P0190,moral,45-54,Female,Some college,Republican,Somewhat in favor,15% is about the correct amount,Strongly convincing,Yes
+P0063,control,35-44,Male,Bachelor's degree,Independent,Somewhat in favor,15% is about the correct amount,Strongly convincing,Yes
+P0013,control,25-34,Female,Graduate degree,Other/No affiliation,Strongly in favor,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0224,moral,35-44,Female,Bachelor's degree,Democrat,Strongly in favor,15% is not high enough,Neither convincing nor unconvincing,No
+P0181,moral,55-64,Male,Graduate degree,Republican,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0173,economic,25-34,Non-binary/Other,Bachelor's degree,Republican,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0154,economic,25-34,Female,Bachelor's degree,Independent,Neutral,15% is too high,Strongly convincing,Yes
+P0115,economic,45-54,Male,High school or less,Other/No affiliation,Strongly in opposition,15% is about the correct amount,Somewhat unconvincing,Maybe
+P0250,moral,55-64,Female,Some college,Democrat,Somewhat in opposition,15% is too high,Neither convincing nor unconvincing,No
+P0153,economic,18-24,Male,Some college,Democrat,Somewhat in favor,15% is not high enough,Strongly convincing,Yes
+P0026,control,35-44,Female,Bachelor's degree,Democrat,Strongly in favor,15% is too high,Strongly unconvincing,Yes
+P0018,control,55-64,Male,Graduate degree,Republican,Somewhat in favor,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0053,control,45-54,Male,Graduate degree,Other/No affiliation,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0062,control,45-54,Female,Graduate degree,Republican,Somewhat in favor,15% is too high,Neither convincing nor unconvincing,No
+P0005,control,18-24,Male,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0228,moral,25-34,Female,Bachelor's degree,Republican,Strongly in favor,15% is about the correct amount,Neither convincing nor unconvincing,Maybe
+P0227,moral,55-64,Female,Bachelor's degree,Democrat,Strongly in favor,15% is about the correct amount,Strongly convincing,Yes
+P0255,moral,18-24,Male,Bachelor's degree,Democrat,Strongly in opposition,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0197,moral,65+,Female,Bachelor's degree,Independent,Neutral,15% is too high,Neither convincing nor unconvincing,Yes
+P0158,economic,18-24,Female,Bachelor's degree,Republican,Somewhat in favor,15% is about the correct amount,Somewhat convincing,No
+P0108,economic,18-24,Non-binary/Other,Bachelor's degree,Democrat,Neutral,15% is about the correct amount,Somewhat convincing,No
+P0170,economic,25-34,Male,Bachelor's degree,Republican,Neutral,15% is about the correct amount,Strongly convincing,No
+P0208,moral,25-34,Female,Bachelor's degree,Independent,Somewhat in favor,15% is too high,Somewhat convincing,Yes
+P0009,control,55-64,Male,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Somewhat unconvincing,No
+P0029,control,35-44,Male,High school or less,Republican,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0196,moral,25-34,Female,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Somewhat convincing,No
+P0186,moral,25-34,Female,Bachelor's degree,Other/No affiliation,Somewhat in opposition,15% is about the correct amount,Somewhat convincing,No
+P0225,moral,45-54,Male,Bachelor's degree,Democrat,Neutral,15% is too high,Neither convincing nor unconvincing,Yes
+P0240,moral,35-44,Female,Graduate degree,Democrat,Strongly in favor,15% is too high,Neither convincing nor unconvincing,Yes
+P0097,economic,25-34,Female,Some college,Republican,Somewhat in favor,15% is too high,Strongly convincing,No
+P0142,economic,55-64,Female,Graduate degree,Independent,Somewhat in favor,15% is about the correct amount,Strongly convincing,No
+P0080,control,35-44,Male,High school or less,Democrat,Somewhat in opposition,15% is about the correct amount,Neither convincing nor unconvincing,Yes
+P0178,moral,18-24,Male,High school or less,Other/No affiliation,Somewhat in favor,15% is about the correct amount,Somewhat convincing,Maybe
+P0236,moral,18-24,Female,Bachelor's degree,Independent,Neutral,15% is about the correct amount,Neither convincing nor unconvincing,No
+P0127,economic,18-24,Male,Bachelor's degree,Democrat,Strongly in favor,15% is too high,Strongly convincing,Yes
+P0118,economic,35-44,Female,Graduate degree,Democrat,Neutral,15% is about the correct amount,Strongly convincing,Yes
+P0195,moral,18-24,Male,High school or less,Independent,Neutral,15% is about the correct amount,Somewhat convincing,No
