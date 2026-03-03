@@ -1,7 +1,6 @@
 # Message Framing & Public Support for International Student Policy 📊
 
 **DACSS 602 — Research Methods | UMass Amherst | Fall 2023**  
-*Authors: Aodan, Nandni Talreja, Sagnik*
 
 ---
 
@@ -178,6 +177,5 @@ The script produces:
 
 ## Course Context
 
-**DACSS 602 — Research Design and Data Collection**  
-David R. Crane School of Applied Behavioral Sciences  
+**DACSS 602 — Research Methods**  
 University of Massachusetts Amherst | Fall 2023
